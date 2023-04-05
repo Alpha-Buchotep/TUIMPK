@@ -23,6 +23,8 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Microsoft .NET Framework 4.5 vagy újabb
 
 ### A projekt készült:
+
+* VB.NET .NET 4.5
 * Visual Studio 2019 Enterprise IDE
 
 ### Tesztelve:
