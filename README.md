@@ -13,7 +13,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Korlátlan számú konfigurációs fájl mentése (titkosíítva)
 * Saját jelszó a konfigurációs fájlok védelméhez
 * Jelszó mentési lehetőség
-* 0.5 - 5 másodperc közötti késleltetés a kpogtatások között
+* 0.5 - 5 másodperc közötti késleltetés a kopogtatások között
 * Sötét / világos háttér
 * Commodore Amiga háttérzene ;-)
 
