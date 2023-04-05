@@ -25,7 +25,8 @@ Port kopogató alkalmazás Windows rendszerekre.
 ### A projekt készült:
 
 * VB.NET .NET 4.5
-* Visual Studio 2019 Enterprise IDE
+* Visual Studio 2019 Enterprise IDE (v16.0.29102.190)
+* A projekt megnyitásához minimum Visual Studio v10.0.40219.1 szükséges
 
 ### Tesztelve:
 
@@ -49,8 +50,8 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Windows 8.1
 * Windows 10 Professional
 
-### Képek
-
+<details>
+<summary>Képek</summary>
 ![TUIMPK-2](https://user-images.githubusercontent.com/63890454/230176876-7b7c84f0-8b9d-4ba8-98eb-e257b07824cc.jpg)
-
 ![TUIMPK-3](https://user-images.githubusercontent.com/63890454/230176870-436655f9-3998-4d86-9557-b9c66f588c61.jpg)
+</details>
