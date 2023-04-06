@@ -20,6 +20,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 
 ### Futtatáshoz szükséges:
 
+* A futattható (compiled) állomány a bin/release mappában található TUIMPK.exe).
 * Microsoft .NET Framework 4.5 vagy újabb
 
 ### A projekt készült:
@@ -27,6 +28,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 * VB.NET .NET 4.5
 * Visual Studio 2019 Enterprise IDE (v16.0.29102.190)
 * A projekt megnyitásához minimum Visual Studio v10.0.40219.1 szükséges
+
 
 ### Tesztelve:
 
