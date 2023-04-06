@@ -14,7 +14,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Saját jelszó a konfigurációs fájlok védelméhez
 * Jelszó mentési lehetőség
 * 0.5 - 5 másodperc közötti késleltetés a kopogtatások között
-* Minden űrlapmezőt kicsillagozva az adatvédelem érdekében (dupla klikkel megjeleníthetők)
+* Minden űrlapmező kicsillagozva az adatvédelem érdekében (dupla klikkel megjeleníthetők)
 * Sötét / világos háttér
 * Commodore Amiga háttérzene ;-)
 
