@@ -3,6 +3,15 @@
 
 Port kopogató alkalmazás Windows rendszerekre.
 
+### Tartalomjegyzék
+
+- [Az alkalmazásról](https://github.com/Alpha-Buchotep/TUIMPK#az-alkalmaz%C3%A1sr%C3%B3l)
+- [Futtatáshoz szükséges környzet + futtatható állomány](https://github.com/Alpha-Buchotep/TUIMPK#futtat%C3%A1shoz-sz%C3%BCks%C3%A9ges)
+- [A projekt készült](https://github.com/Alpha-Buchotep/TUIMPK#a-projekt-k%C3%A9sz%C3%BClt)
+- [Tesztelve](https://github.com/Alpha-Buchotep/TUIMPK#tesztelve)
+- [Képek](https://github.com/Alpha-Buchotep/TUIMPK#k%C3%A9pek)
+
+
 ### Az alkalmazásról:
 
 * TCP port kopogtatás
