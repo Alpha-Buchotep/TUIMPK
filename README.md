@@ -1,5 +1,6 @@
 # TUIMPK
 ### TCP / UDP / ICMP Multi Port Knocker
+#### v1.0.6.0
 
 Port kopogató alkalmazás Windows rendszerekre.
 
@@ -24,7 +25,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Jelszó mentési lehetőség
 * 0.5 - 5 másodperc közötti késleltetés a kopogtatások között
 * Minden űrlapmező kicsillagozva az adatvédelem érdekében (dupla klikkel megjeleníthetők)
-* Sötét / világos háttér
+* 8 db választható háttér
 * Commodore Amiga háttérzene ;-)
 
 
