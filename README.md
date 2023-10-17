@@ -54,6 +54,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 
 * 6.48.6
 * 6.49.7
+* 6.49.9
 * 7.6
 
 #### Windows
