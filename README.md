@@ -1,9 +1,8 @@
 # TUIMPK
 ### TCP / UDP / ICMP Multi Port Knocker
-#### v1.0.6.0
-
 Port kopogató alkalmazás Windows rendszerekre.
 
+#### Verzió: 1.0.6.0
 ### Tartalomjegyzék
 
 - [Az alkalmazásról](#az-alkalmaz%C3%A1sr%C3%B3l)
