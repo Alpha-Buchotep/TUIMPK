@@ -24,13 +24,14 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Jelszó mentési lehetőség
 * 0.5 - 5 másodperc közötti késleltetés a kopogtatások között
 * Minden űrlapmező kicsillagozva az adatvédelem érdekében (dupla klikkel megjeleníthetők)
-* 8 db választható háttér
+* 8 db választható háttér (dupla klikk a program ikonján)
 * Commodore Amiga háttérzene ;-)
 
 
 ### Futtatáshoz szükséges:
 
 * Microsoft .NET Framework 4.5 vagy újabb
+* Windows 7 / 8.1 / 10 / 11 - 32 vagy 64 bites Windows operációs rendszer
 * A futattható (compiled) állomány a bin/release mappában található ([TUIMPK.exe](https://github.com/Alpha-Buchotep/TUIMPK/tree/main/TUIMPK/bin/Release)).
 
 ### A projekt készült:
@@ -60,14 +61,17 @@ Port kopogató alkalmazás Windows rendszerekre.
 #### Windows
 
 * Windows 7 Professional
-* Windows 8.1
+* Windows 8.1 Professional
 * Windows 10 Professional
 * Windows 11 Professional for Workstation
 
 ### Képek
 
+#### Fő ablak (Main Window)
 ![TUIMPK-01](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/b12ac1aa-0938-4f8d-a7a6-1885afb84e72)
 
+#### Beállítások ablak (Settings Window)
 ![TUIMPK-04](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/d23cd77b-0629-4c27-93b3-7484f6fe487b)
 
+#### Info (Info Window)
 ![TUIMPK-03](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/e5561dad-a7fa-4f2a-8ec8-ee1f441f6335)
