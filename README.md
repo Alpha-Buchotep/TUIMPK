@@ -61,6 +61,7 @@ Port kopogató alkalmazás Windows rendszerekre.
 * Windows 7 Professional
 * Windows 8.1
 * Windows 10 Professional
+* Windows 11 Professional for Workstation
 
 ### Képek
 
