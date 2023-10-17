@@ -37,6 +37,8 @@ With this app You can knock port(s) on supported devices like Mikrotik router / 
  Tested
 -------------- 
 
+- Windows 7 / 8.1 / 10 / 11
+
 - MikroTik Router OS 6.48.6
 - MikroTik Router OS 6.49.7
 - MikroTik Router OS 6.49.9
