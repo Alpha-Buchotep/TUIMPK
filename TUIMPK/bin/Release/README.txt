@@ -24,7 +24,6 @@ With this app You can knock port(s) on supported devices like Mikrotik router / 
 - You can adjust delay between packets (0.5 - 5 sec)
 - You can save config file password (stored in app settings, AES256 enrcrypted)
 - Every field content is hidden for maximum security (double click to show)
-- Two version available (music / no music)
 - Eight background (click to program icon (on top left)
 
 --------------
