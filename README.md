@@ -32,7 +32,7 @@ Port kopogtató alkalmazás Windows rendszerekre.
 
 * Microsoft .NET Framework 4.5 vagy újabb
 * Windows 7 / 8.1 / 10 / 11 - 32 vagy 64 bites Windows operációs rendszer
-* A futattható (compiled) állomány a bin/release mappában található ([TUIMPK.exe](https://github.com/Alpha-Buchotep/TUIMPK/tree/main/TUIMPK/bin/Release)).
+* Kész, futtatható verzió itt található: ([TUIMPK - Release](https://github.com/Alpha-Buchotep/TUIMPK/releases))
 
 ### A projekt készült:
 
