@@ -2,7 +2,7 @@
 ### TCP / UDP / ICMP Multi Port Knocker
 Port kopogtató alkalmazás Windows rendszerekre.
 
-#### Verzió: 1.0.6.0
+#### Verzió: 1.0.7.0
 ### Tartalomjegyzék
 
 - [Az alkalmazásról](#az-alkalmaz%C3%A1sr%C3%B3l)
@@ -71,7 +71,7 @@ Port kopogtató alkalmazás Windows rendszerekre.
 ![TUIMPK-01](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/b12ac1aa-0938-4f8d-a7a6-1885afb84e72)
 
 #### Beállítások ablak (Settings Window)
-![TUIMPK-04](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/d23cd77b-0629-4c27-93b3-7484f6fe487b)
+![TUIMPK-04](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/d9ca3eaf-7a6a-4124-b21d-0f42b0fb77bc)
 
 #### Info (Info Window)
-![TUIMPK-03](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/e5561dad-a7fa-4f2a-8ec8-ee1f441f6335)
+![TUIMPK-03](https://github.com/Alpha-Buchotep/TUIMPK/assets/63890454/01e11b34-f44d-4033-b724-dcf94be87d0d)
