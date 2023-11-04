@@ -19,7 +19,7 @@ Port kopogtató alkalmazás Windows rendszerekre.
 * UDP port kopogtatás + "jelszó" küldés
 * Egy időben 4 darab protokoll / port állítható be
 * Kopogtatás egyesével vagy csoportosan (egy időben max. 4 db)
-* Korlátlan számú konfigurációs fájl mentése (titkosíítva)
+* Korlátlan számú konfigurációs fájl mentése (titkosítva)
 * Saját jelszó a konfigurációs fájlok védelméhez
 * Jelszó mentési lehetőség
 * 0.5 - 5 másodperc közötti késleltetés a kopogtatások között
